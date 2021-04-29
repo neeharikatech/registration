@@ -1,0 +1,151 @@
+{ "identity" : {
+  "presentProvince" : [ {
+    "language" : "eng",
+    "value" : "China"
+  } ],
+  "presentAddressLine1" : [ {
+    "language" : "eng",
+    "value" : "bjbjbhjbhj"
+  } ],
+  "presentZipcode" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "lastName" : [ {
+    "language" : "eng",
+    "value" : "PATWA"
+  } ],
+  "presentAddressLine2" : [ {
+    "language" : "eng",
+    "value" : "kjnjknkjnk"
+  } ],
+  "presentAddressLine3" : [ {
+    "language" : "eng",
+    "value" : "mjjjj"
+  } ],
+  "pobCountry" : [ {
+    "language" : "eng",
+    "value" : "Singapore"
+  } ],
+  "presentAddressLine4" : [ {
+    "language" : "eng",
+    "value" : "jnjknjknjknjk"
+  } ],
+  "proofOfAddress" : {
+    "value" : "proofOfAddress",
+    "type" : "POA",
+    "format" : "PDF"
+  },
+  "gender" : [ {
+    "language" : "eng",
+    "value" : "Male"
+  } ],
+  "modeOfClaim" : [ {
+    "language" : "eng",
+    "value" : "Pick-up"
+  } ],
+  "proofOfConsent" : {
+    "value" : "proofOfConsent",
+    "type" : "COU",
+    "format" : "PDF"
+  },
+  "permanentBarangay" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "suffix" : [ {
+    "language" : "eng",
+    "value" : "Mrs."
+  } ],
+  "bloodType" : [ {
+    "language" : "eng",
+    "value" : "O"
+  } ],
+  "pobprovince" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "individualBiometrics" : {
+    "format" : "cbeff",
+    "version" : 1.0,
+    "value" : "individualBiometrics_bio_CBEFF"
+  },
+  "presentBarangay" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "pobcity" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "residenceStatus" : [ {
+    "language" : "eng",
+    "value" : "Filipino"
+  } ],
+  "email" : "neeharika.garg@technoforte.co.in",
+  "permanentZipcode" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "addressCopy" : "Y",
+  "dateOfBirth" : "2005/08/08",
+  "presentCity" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "firstName" : [ {
+    "language" : "eng",
+    "value" : "MMM"
+  } ],
+  "proofOfIdentity" : {
+    "value" : "proofOfIdentity",
+    "type" : "POI",
+    "format" : "PDF"
+  },
+  "IDSchemaVersion" : 0.9,
+  "permanentAddressLine1" : [ {
+    "language" : "eng",
+    "value" : "Street123"
+  } ],
+  "permanentCountry" : [ {
+    "language" : "eng",
+    "value" : "Bangladesh"
+  } ],
+  "phone" : "1234567891",
+  "registrationType" : [ {
+    "language" : "eng",
+    "value" : "Document-based"
+  } ],
+  "presentCountry" : [ {
+    "language" : "eng",
+    "value" : "Bangladesh"
+  } ],
+  "permanentProvince" : [ {
+    "language" : "eng",
+    "value" : "Australia"
+  } ],
+  "middleName" : [ {
+    "language" : "eng",
+    "value" : "LAL"
+  } ],
+  "permanentCity" : [ {
+    "language" : "eng",
+    "value" : "NA"
+  } ],
+  "permanentAddressLine2" : [ {
+    "language" : "eng",
+    "value" : "Bangladesh"
+  } ],
+  "permanentAddressLine3" : [ {
+    "language" : "eng",
+    "value" : "1111111"
+  } ],
+  "maritalStatus" : [ {
+    "language" : "eng",
+    "value" : "Married"
+  } ],
+  "permanentAddressLine4" : [ {
+    "language" : "eng",
+    "value" : "123456"
+  } ]
+} } 

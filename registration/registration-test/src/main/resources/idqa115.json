@@ -1,0 +1,219 @@
+{
+	"identity": {
+		"presentAddressLine1": [
+			{
+				"language": "eng",
+				"value": "#161, 19 Street, 8 block"
+			},
+			{
+				"language": "ara",
+				"value": "#١٦١، ١٩ سترِِت، ٨ بلُكك"
+			}
+		],
+		"presentProvince": [
+			{
+				"language": "eng",
+				"value": "KTA"
+			},
+			{
+				"language": "ara",
+				"value": "KTA"
+			}
+		],
+		"presentAddressLine2": [
+			{
+				"language": "eng",
+				"value": "#947, 67 Street, 3 block"
+			},
+			{
+				"language": "ara",
+				"value": "#٩٤٧، ٦٧ سترِِت، ٣ بلُكك"
+			}
+		],
+		"presentAddressLine3": [
+			{
+				"language": "eng",
+				"value": "#430, 78 Street, 10 block"
+			},
+			{
+				"language": "ara",
+				"value": "#٤٣٠، ٧٨ سترِِت، ١٠ بلُكك"
+			}
+		],
+		"proofOfAddress": {
+			"format": "pdf",
+			"type": "DOC004",
+			"value": "proofOfAddress"
+		},
+		"gender": [
+			{
+				"language": "eng",
+				"value": "Mâle"
+			},
+			{
+				"language": "ara",
+				"value": "Mâle"
+			}
+		],
+		"presentZone": [
+			{
+				"language": "eng",
+				"value": "BNMR"
+			},
+			{
+				"language": "ara",
+				"value": "BNMR"
+			}
+		],
+		"individualBiometrics": {
+			"format": "cbeff",
+			"version": 1,
+			"value": "individualBiometrics_bio_CBEFF"
+		},
+		"residenceStatus": [
+			{
+				"language": "eng",
+				"value": "Résident"
+			},
+			{
+				"language": "ara",
+				"value": "Résident"
+			}
+		],
+		"email": "Gloria.Quintero.2089@mailinator.com",
+		"presentRegion": [
+			{
+				"language": "eng",
+				"value": "RSK"
+			},
+			{
+				"language": "ara",
+				"value": "RSK"
+			}
+		],
+		"fullName": [
+			{
+				"language": "eng",
+				"value": "Gloria Quintero"
+			},
+			{
+				"language": "ara",
+				"value": "گلُرَِ  قُِنتِرُ"
+			}
+		],
+		"addressCopy": "Y",
+		"dateOfBirth": "1944/03/31",
+		"permanentRegion": [
+			{
+				"language": "eng",
+				"value": "RSK"
+			},
+			{
+				"language": "ara",
+				"value": "RSK"
+			}
+		],
+		"presentCity": [
+			{
+				"language": "eng",
+				"value": "KNT"
+			},
+			{
+				"language": "ara",
+				"value": "KNT"
+			}
+		],
+		"proofOfIdentity": {
+			"format": "pdf",
+			"type": "DOC008",
+			"value": "proofOfIdentity"
+		},
+		"IDSchemaVersion": 0.1,
+		"permanentAddressLine1": [
+			{
+				"language": "eng",
+				"value": "#132, 75 Street, 6 block"
+			},
+			{
+				"language": "ara",
+				"value": "#١٣٢، ٧٥ سترِِت، ٦ بلُكك"
+			}
+		],
+		"presentPostalcode": [
+			{
+				"language": "eng",
+				"value": "14022"
+			},
+			{
+				"language": "ara",
+				"value": "14022"
+			}
+		],
+		"phone": "6008215789",
+		"permanentZone": [
+			{
+				"language": "eng",
+				"value": "BNMR"
+			},
+			{
+				"language": "ara",
+				"value": "BNMR"
+			}
+		],
+		"permanentPostalcode": [
+			{
+				"language": "eng",
+				"value": "14022"
+			},
+			{
+				"language": "ara",
+				"value": "14022"
+			}
+		],
+		"permanentProvince": [
+			{
+				"language": "eng",
+				"value": "KTA"
+			},
+			{
+				"language": "ara",
+				"value": "KTA"
+			}
+		],
+		"proofOfRelationship": {
+			"format": "pdf",
+			"type": "DOC024",
+			"value": "proofOfRelationship"
+		},
+		"permanentCity": [
+			{
+				"language": "eng",
+				"value": "KNT"
+			},
+			{
+				"language": "ara",
+				"value": "KNT"
+			}
+		],
+		"permanentAddressLine2": [
+			{
+				"language": "eng",
+				"value": "#1089, 67 Street, 6 block"
+			},
+			{
+				"language": "ara",
+				"value": "#١٠٨٩، ٦٧ سترِِت، ٦ بلُكك"
+			}
+		],
+		"permanentAddressLine3": [
+			{
+				"language": "eng",
+				"value": "#147, 25 Street, 9 block"
+			},
+			{
+				"language": "ara",
+				"value": "#١٤٧، ٢٥ سترِِت، ٩ بلُكك"
+			}
+		]
+	}
+}

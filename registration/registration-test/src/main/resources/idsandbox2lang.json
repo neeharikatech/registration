@@ -1,0 +1,130 @@
+{
+	"identity": {
+		"proofOfAddress": {
+			"format": "pdf",
+			"type": "DOC013",
+			"value": "proofOfAddress"
+		},
+		"gender": [
+			{
+				"language": "eng",
+				"value": "Female"
+			},
+			{
+				"language": "ara",
+				"value": "Female"
+			}
+		],
+		"city": [
+			{
+				"language": "eng",
+				"value": "Kenitra"
+			},
+			{
+				"language": "ara",
+				"value": "كِنِترَ"
+			}
+		],
+		"postalCode": "-8504171174322703107",
+		"fullName": [
+			{
+				"language": "eng",
+				"value": "Lylah  Lange"
+			},
+			{
+				"language": "ara",
+				"value": "ليلَه  لَنگِ"
+			}
+		],
+		"dateOfBirth": "1983/02/26",
+		"referenceIdentityNumber": "1986276595",
+		"proofOfIdentity": {
+			"format": "pdf",
+			"type": "DOC004",
+			"value": "proofOfIdentity"
+		},
+		"individualBiometrics": {
+			"format": "cbeff",
+			"version": 1,
+			"value": "individualBiometrics_bio_CBEFF"
+		},
+		"IDSchemaVersion": 0.1,
+		"province": [
+			{
+				"language": "eng",
+				"value": "Kenitra"
+			},
+			{
+				"language": "ara",
+				"value": "كِنِترَ"
+			}
+		],
+		"zone": [
+			{
+				"language": "eng",
+				"value": "Ben Mansour"
+			},
+			{
+				"language": "ara",
+				"value": "بِن مَنسُُر"
+			}
+		],
+		"phone": "6675993388",
+		"addressLine1": [
+			{
+				"language": "eng",
+				"value": "#111, 127th Main, addressLine1"
+			},
+			{
+				"language": "ara",
+				"value": "#١١١، ١٢٧ته مَِن، َددرِسسلِنِ١"
+			}
+		],
+		"addressLine2": [
+			{
+				"language": "eng",
+				"value": "#111, 127th Main, addressLine2"
+			},
+			{
+				"language": "ara",
+				"value": "#١١١، ١٢٧ته مَِن، َددرِسسلِنِ٢"
+			}
+		],
+		"residenceStatus": [
+			{
+				"language": "eng",
+				"value": "NFR"
+			},
+			{
+				"language": "ara",
+				"value": "NFR"
+			}
+		],
+		"proofOfRelationship": {
+			"format": "pdf",
+			"type": "CRN",
+			"value": "proofOfRelationship"
+		},
+		"addressLine3": [
+			{
+				"language": "eng",
+				"value": "#111, 127th Main, addressLine3"
+			},
+			{
+				"language": "ara",
+				"value": "#١١١، ١٢٧ته مَِن، َددرِسسلِنِ٣"
+			}
+		],
+		"region": [
+			{
+				"language": "eng",
+				"value": "Rabat Sale Kenitra"
+			},
+			{
+				"language": "ara",
+				"value": "رَبَت سَلِ كِنِترَ"
+			}
+		],
+		"email": "Lylah.Lange.8204@mailinator.com"
+	}
+}
